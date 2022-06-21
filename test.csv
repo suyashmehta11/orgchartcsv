@@ -1,6 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 ,,,,Corporate,,False,,chairman_mananging_director,,
-,,,,Corporate,,False,,ceo_president_dir,chairman_mananging_director,
 Shashank Kumar,,,,Corporate,,False,Founder,ceo_president_dir,chairman_mananging_director,
 ,,,,Corporate,,False,,analytics,ceo_president_dir,
 ,,,,Corporate,,False,,chief_x_officer,analytics,
