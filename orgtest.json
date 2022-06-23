@@ -8,25 +8,25 @@
   {
       "name": "Steven Ward",
       "title": "AVP & Managing Director UK Salesforce practice",
-      "id": "chairman_mananging_director",
+      "id": "chairman_mananging_director_child",
       "parentId": "chairman_mananging_director"
   },
   {
       "name": "Christophe Gaget",
       "title": "AVP & Managing Director France Salesforce Practice",
-      "id": "chairman_mananging_director",
+      "id": "chairman_mananging_director_child",
       "parentId": "chairman_mananging_director"
   },
   {
       "name": "Giulia Gilia",
       "title": "Managing Director",
-      "id": "chairman_mananging_director",
+      "id": "chairman_mananging_director_child",
       "parentId": "chairman_mananging_director"
   },
   {
       "name": "Tom Kendra",
       "title": "Member Board of Directors",
-      "id": "chairman_mananging_director",
+      "id": "chairman_mananging_director_child",
       "parentId": "chairman_mananging_director"
   }
 ]
