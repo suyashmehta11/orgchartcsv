@@ -22,7 +22,7 @@
     "isLoggedUser": false,
     "positionName": "AVP & Managing Director UK Salesforce practice",
     "id": "chairman_mananging_director",
-    "parentId": null,
+    "parentId": "chairman_mananging_director",
     "size": ""
   },
   {
@@ -35,7 +35,7 @@
     "isLoggedUser": false,
     "positionName": "AVP & Managing Director France Salesforce Practice",
     "id": "chairman_mananging_director",
-    "parentId": null,
+    "parentId": "chairman_mananging_director",
     "size": ""
   },
   {
@@ -48,7 +48,7 @@
     "isLoggedUser": false,
     "positionName": "Managing Director",
     "id": "chairman_mananging_director",
-    "parentId": null,
+    "parentId": "chairman_mananging_director",
     "size": ""
   },
   {
@@ -61,7 +61,7 @@
     "isLoggedUser": false,
     "positionName": "Member Board of Directors",
     "id": "chairman_mananging_director",
-    "parentId": null,
+    "parentId": "chairman_mananging_director",
     "size": ""
   },
   {
