@@ -1,0 +1,19 @@
+[{
+  "name": "Ian Devling"
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Ass…s/master/Projects/D3/Organization%20Chart/cto.jpg"
+  "area": "Corporate"
+  "office": "CTO office"
+  "unit": {"type": "business", "value": "Business first"}
+  "positionName": "Cheaf Executive Officer "
+  "id": "O-1"
+  "parentId": null
+},
+{
+  "name": "Davolio Nancy"
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Ass…ster/Projects/D3/Organization%20Chart/general.jpg"
+  "office": "CEO office"
+  "unit": {"type": "business", "value": "Business one"}
+  "positionName": "CTO "
+  "id": "O-2"
+  "parentId": "O-1"
+}]
